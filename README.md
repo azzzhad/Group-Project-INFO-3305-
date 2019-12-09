@@ -83,7 +83,7 @@ Patient
 Doctor
 - Reduce workload of having to stay inside their workplace for long hours.
 
-- 1.8 Summary
+- 1.8 Summary<br>
 This web application might not be perfect but we surely hope it will be enough come the end of the development phase. 
 It is also one of our objectives to see this application serve its purpose which is to help replace previous systems which may be outdated and give everyone at the hospital a non-stressful time whenever they come to visit.  
 
