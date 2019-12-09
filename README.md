@@ -21,9 +21,9 @@ AL - LATIF
 
 <center>
 
- 					Azhad Saifuddin						1915625 
-					Adhim Muhammad Ilham 			1917319
-					Ikmal bin Ishak 					1621192
+ 					Azhad Saifuddin			1915625 
+					Adhim Muhammad Ilham 		1917319
+					Ikmal bin Ishak 		1621192
 					Yudha Arga Diaz Prawira 	1918843
 <br>
 <br>
@@ -89,6 +89,6 @@ It is also one of our objectives to see this application serve its purpose which
 
 
 - 1.9 References<br>
-•	Brown H. A web-based system to monitor and predict healthcare activity. Health Inform J 2005;11(1):63–79.
-•	Simoes EJ, Land G, Metzger R, Mokdad A, Prioritization MICA: a web-based application to prioritize public health resources. J Public Health Manag Pract 2006;12(2):161–169.
-•	Rossi L, Margola L, Manzelli V, Bandera A. wHospital: a web-based application with digital signature for drugs dispensing management. Proceedings of the 28th Annual International Conference of the IEEE (EMBS’ 2006), 2006:6793–6796.
+•	Brown H. A web-based system to monitor and predict healthcare activity. Health Inform J 2005;11(1):63–79.<br>
+•	Simoes EJ, Land G, Metzger R, Mokdad A, Prioritization MICA: a web-based application to prioritize public health resources. J Public Health Manag Pract 2006;12(2):161–169.<br>
+•	Rossi L, Margola L, Manzelli V, Bandera A. wHospital: a web-based application with digital signature for drugs dispensing management. Proceedings of the 28th Annual International Conference of the IEEE (EMBS’ 2006), 2006:6793–6796.<br>
