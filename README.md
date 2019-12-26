@@ -52,8 +52,7 @@ AL - LATIF
 
     - 1.2.2 Problem Statement<br>
     	- The patients have to wait for a long queue to get their service.
-    	- There are not many system that allows user to make reservation from various hospital.
-			- Doctors cannot find a good platform to manage their appointment with their patients.
+    	- There are not many system that allows user to make reservation from various hospital.<br>- Doctors cannot find a good platform to manage their appointment with their patients.
     
 
 	- 1.3 Project Objective<br>
