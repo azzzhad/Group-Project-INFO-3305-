@@ -38,7 +38,7 @@ AL - LATIF
 
 - 1.1 Introduction<br>
 
-	Hospital Queue Reservation website is an application that replaces the queuing mechanism manually into an internet-based queue. where people no longer need to queue up from the morning, instead just choose the date and location of the hospital followed by filling in the data accordingly and validly.
+	Hospital Queue Reservation website is an application that replaces the queuing mechanism manually into an internet-based queue where people no longer need to queue up from the morning, instead just choose the date and location of the hospital followed by filling in the data accordingly and validly.
 
 - 1.2 Problem Description
     - 1.2.1 Background of the problem <br>
@@ -49,39 +49,44 @@ AL - LATIF
     	To overcome this problem, many of them are willing to arrive early just to avoid wasting their time. However, even coming early may not guarantee them getting the time to see the doctor.
 
     - 1.2.2 Problem Statement<br>
-    	- The patients have to wait for a long queue to get their service
-    	- There are not many system that allows user to pick from various hospital
+    	- The patients have to wait for a long queue to get their service.
+    	- There are not many system that allows user to make reservation from various hospital.
+	- Doctors cannot find a good platform to manage their appointment with their patients.
     
 
 	- 1.3 Project Objective<br>
-		We want people to be able to queue without having to waste their time just to get hospital services that are shorter than their waiting time. We also want to be able to choose a queue from any hospital that is still available
+		- We want people to be able to queue without having to waste their time just to get hospital services that are shorter than their waiting time. We also want to be able to choose a queue from any hospital that is still available.
+		- Give ease of access for the doctors to effectively manage and plan their appointment with their patients in the next 7 days.
 		
 
 - 1.4 Project Scope<br>
     - 1.4.1 Scope<br>
-		This web application can be used on national or regional scale. 
+		This web application can be used on a national or regional scale but for now, we only have 3 hospitals in service which uses our system.
     
     - 1.4.2 Targeted User<br>
-    Citizens that requires quick and easy queue reservation process in hospitals
+    - Citizens that require quick and easy queue reservation process in hospitals.
+
+		- Doctors who need to be provided with patients schedule information in the next 7 days on their workplace and time.
     
     - 1.4.3 Specific Platform<br>
-    We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Besides, we will be using the Tomcat Server and its technologies to fulfill the development. We will use Model View Controller concept for the execution of this project.
+    We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Tomcat Server and its technologies are used to fulfill the development. Model View Controller concept will be used for the execution of this project.
     
 - 1.5 Constraints<br>
 Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
 Also, being just students it would be impossible for us to fund the development of this web application by ourselves as we do not have the necessary budget.
 
 - 1.6 Project Stages <br>  
-Main Page (1 day)
-Database (5 days)
-Other functionalities (6 days)
+Main Page (1 day) (Finished)
+Database (5 days) (Finished)
+Other functionalities (6 days) ->
 
 - 1.7 Significance of The Project<br>
-Patient
+<b>Patient</b>
 - Ease patients so that they do not have to blindly come and wait for their turn without knowing when they are exactly going to be called in by the doctor.
 
-Doctor
+<b>Doctor</b>
 - Reduce workload of having to stay inside their workplace for long hours.
+- Getting doctor's time more organized and suitable with the system. Because the system will also categorize the patients based on their workplace and field of medics
 
 - 1.8 Summary<br>
 This web application might not be perfect but we surely hope it will be enough come the end of the development phase. 
