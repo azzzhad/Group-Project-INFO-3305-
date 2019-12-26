@@ -8,12 +8,12 @@ GROUP PROJECT FINAL REPORT
 HOSPITAL QUEUE SYSTEM
 <br>
 <br>
+DR. MUHAMAD SADRY ABU SEMAN
+<br>
 <br>
 AL - LATIF
 </b>
 	
-<br>
-<br>
 <br>
 
 
