@@ -66,7 +66,7 @@ AL - LATIF
 		- This web application can be used on a national or regional scale but for now, we only have 3 hospitals in service which uses our system.
     
     - 1.4.2 Targeted User<br>
-    		- Citizens that require quick and easy queue reservation process in hospitals.
+    	- Citizens that require quick and easy queue reservation process in hospitals.
 
 		- Doctors who need to be provided with patients schedule information in the next 7 days on their workplace and time.
     
