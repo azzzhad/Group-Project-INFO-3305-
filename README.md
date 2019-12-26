@@ -71,7 +71,7 @@ AL - LATIF
 		- Doctors who need to be provided with patients schedule information in the next 7 days on their workplace and time.
     
     - 1.4.3 Specific Platform<br>
-    - We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Tomcat Server and its technologies are used to fulfill the development. Model View Controller concept will be used for the execution of this project.
+    	- We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Tomcat Server and its technologies are used to fulfill the development. Model View Controller concept will be used for the execution of this project.
     
 - 1.5 Constraints<br>
 - Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
