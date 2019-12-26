@@ -1,6 +1,7 @@
 <p align="center"><b>
-PROPOSAL FOR PROJECT DEVELOPMENT
-
+WEB APPLICATION DEVELOPMENT (INFO 3305)
+<br><br>
+GROUP PROJECT FINAL REPORT
 <br>
 <br>
 <br>
@@ -10,10 +11,7 @@ HOSPITAL QUEUE SYSTEM
 <br>
 AL - LATIF
 </b>
-
-
-<br>
-<br>
+	
 <br>
 <br>
 <br>
@@ -85,6 +83,7 @@ Main Page (1 day) (Finished)
 - Ease patients so that they do not have to blindly come and wait for their turn without knowing when they are exactly going to be called in by the doctor.
 <br>
 <b>Doctor</b>
+<br>
 - Reduce workload of having to stay inside their workplace for long hours.
 - Getting doctor's time more organized and suitable with the system. Because the system will also categorize the patients based on their workplace and field of medics
 
