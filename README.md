@@ -81,8 +81,9 @@ Main Page (1 day) (Finished)
 - 1.7 Significance of The Project
 <br>
 <b>Patient</b>
+<br>
 - Ease patients so that they do not have to blindly come and wait for their turn without knowing when they are exactly going to be called in by the doctor.
-
+<br>
 <b>Doctor</b>
 - Reduce workload of having to stay inside their workplace for long hours.
 - Getting doctor's time more organized and suitable with the system. Because the system will also categorize the patients based on their workplace and field of medics
