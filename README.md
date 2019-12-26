@@ -37,7 +37,7 @@ AL - LATIF
 </p>
 </center>
 <hr>
-<p align="center"><b>PROPOSAL FOR PROJECT DEVELOPMENT</b></p>
+<p align="center"><b>GROUP PROJECT FINAL REPORT</b></p>
 <hr>
 
 - 1.1 Introduction<br>
