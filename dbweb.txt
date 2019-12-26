@@ -1,0 +1,45 @@
+drop table patients cascade constraints;
+drop table doctors cascade constraints;
+drop table queue cascade constraints;
+
+create table patients(
+pt_id varchar2(3),
+pt_name varchar(20),
+PT_EMAIL VARCHAR2(20),
+PT_PASS varchar2(200),
+PT_TELP VARCHAR2(15),
+constraint pt_key primary key(pt_id)
+);
+
+create table doctors(
+DOC_ID varchar2(3),
+DOC_NAME VARCHAR2(20),
+doc_pass varchar2(200),
+AREA VARCHAR2(20),
+hospital varchar2(20),
+constraint dok_key primary key(doc_id)
+);
+
+create table queue(
+que_id varchar2(4),
+doc_id varchar2(3),
+pt_id varchar2(3),
+que_date date,
+que_hour number,
+que_minute number,
+constraint que_key primary key(que_id),
+constraint pt_fkey foreign key(pt_id) references patients,
+constraint doc_fkey foreign key(doc_id) references doctors
+);
+
+insert into doctors values('423', 'Haider', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Eye Care', 'Ampang');
+insert into doctors values('374', 'Maximillian', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Neurology', 'Ampang');
+insert into doctors values('376', 'Bernard', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Skin', 'Ampang');
+insert into doctors values('287', 'Ellis', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Cardiology', 'Pantai');
+insert into doctors values('927', 'William', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Eye Care', 'Pantai');
+insert into doctors values('236', 'Bernard', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Skin', 'Pantai');
+insert into doctors values('745', 'Tamara', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Cardiology', 'Glen Eagles');
+insert into doctors values('856', 'Harmony', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Urology', 'Glen Eagles');
+insert into doctors values('888', 'Elmer', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220', 'Dental Cares', 'Glen Eagles');
+
+insert into patients values('532','argadiaz','argadiaz09@gmail.com','7110eda4d09e062aa5e4a390b0a572ac0d2c0220','081252110562');
