@@ -52,7 +52,8 @@ AL - LATIF
 
     - 1.2.2 Problem Statement<br>
     	- The patients have to wait for a long queue to get their service.
-    	- There are not many system that allows user to make reservation from various hospital.<br>- Doctors cannot find a good platform to manage their appointment with their patients.
+    	- There are not many system that allows user to make reservation from various hospital.
+			- Doctors cannot find a good platform to manage their appointment with their patients.
     
 
 	- 1.3 Project Objective<br>
@@ -90,7 +91,7 @@ Main Page (1 day) (Finished)
 <b>Doctor</b>
 <br>
 - Reduce workload of having to stay inside their workplace for long hours.
-- Getting doctor's time more organized and suitable with the system. Because the system will also categorize the patients based on their workplace and field of medics
+- Getting doctor's time more organized and suitable with the system because the system will also categorize the patients based on their workplace and field of medics.
 
 - 1.8 Summary<br>
 This web application might not be perfect but we surely hope it will be enough come the end of the development phase. 
