@@ -80,7 +80,13 @@ Also, being just students it would be impossible for us to fund the development 
 - 1.6 Project Stages <br>  
 Main Page (1 day) (Finished)
 <br>Database (5 days) (Finished)
-<br>Other functionalities (6 days) ->
+<br>Other functionalities (6 days)<br>1. Establish the connection among MVC architecture<br>
+
+2. Event handling for each button<br>
+
+3. Session checking<br>
+
+4. Error checking <br>
 
 - 1.7 Significance of The Project
 <br>
