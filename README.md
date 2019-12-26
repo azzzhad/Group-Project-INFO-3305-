@@ -44,7 +44,8 @@ AL - LATIF
     - 1.2.1 Background of the problem <br>
 
     	- People spend a lot of their time in the queue, especially in the hospital. They tend to wait for a long queue and may not leave the place, because there is a possibility that they will miss their turn. It also makes it difficult for them to plan for other things they have to do such as run errands. 
-    	<br>- To overcome this problem, many of them are willing to arrive early just to avoid wasting their time. However, even coming early may not guarantee them getting the time to see the doctor.
+    	<br> 
+	- To overcome this problem, many of them are willing to arrive early just to avoid wasting their time. However, even coming early may not guarantee them getting the time to see the doctor.
 
     - 1.2.2 Problem Statement<br>
     	- The patients have to wait for a long queue to get their service.
