@@ -38,12 +38,12 @@ AL - LATIF
 
 - 1.1 Introduction<br>
 
-	Hospital Queue Reservation website is an application that replaces the queuing mechanism manually into an internet-based queue where people no longer need to queue up from the morning, instead just choose the date and location of the hospital followed by filling in the data accordingly and validly.
+	- Hospital Queue Reservation website is an application that replaces the queuing mechanism manually into an internet-based queue where people no longer need to queue up from the morning, instead just choose the date and location of the hospital followed by filling in the data accordingly and validly.
 
 - 1.2 Problem Description
     - 1.2.1 Background of the problem <br>
 
-    	People spend a lot of their time in the queue, especially in the hospital. They tend to wait for a long queue and may not leave the place, because there is a possibility that they will miss their turn. It also makes it difficult for them to plan for other things they have to do such as run errands. 
+    	- People spend a lot of their time in the queue, especially in the hospital. They tend to wait for a long queue and may not leave the place, because there is a possibility that they will miss their turn. It also makes it difficult for them to plan for other things they have to do such as run errands. 
     	<br>
 
     	To overcome this problem, many of them are willing to arrive early just to avoid wasting their time. However, even coming early may not guarantee them getting the time to see the doctor.
