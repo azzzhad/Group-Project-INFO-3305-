@@ -75,7 +75,7 @@ AL - LATIF
     
 - 1.5 Constraints
 <br>
-- Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
+	Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
 Also, being just students it would be impossible for us to fund the development of this web application by ourselves as we do not have the necessary budget.
 
 - 1.6 Project Stages <br>  
