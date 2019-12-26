@@ -44,7 +44,6 @@ AL - LATIF
     - 1.2.1 Background of the problem <br>
 
     	- People spend a lot of their time in the queue, especially in the hospital. They tend to wait for a long queue and may not leave the place, because there is a possibility that they will miss their turn. It also makes it difficult for them to plan for other things they have to do such as run errands. 
-    	<br> 
 	- To overcome this problem, many of them are willing to arrive early just to avoid wasting their time. However, even coming early may not guarantee them getting the time to see the doctor.
 
     - 1.2.2 Problem Statement<br>
@@ -60,7 +59,7 @@ AL - LATIF
 
 - 1.4 Project Scope<br>
     - 1.4.1 Scope<br>
-		This web application can be used on a national or regional scale but for now, we only have 3 hospitals in service which uses our system.
+		- This web application can be used on a national or regional scale but for now, we only have 3 hospitals in service which uses our system.
     
     - 1.4.2 Targeted User<br>
     - Citizens that require quick and easy queue reservation process in hospitals.
@@ -68,16 +67,16 @@ AL - LATIF
 		- Doctors who need to be provided with patients schedule information in the next 7 days on their workplace and time.
     
     - 1.4.3 Specific Platform<br>
-    We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Tomcat Server and its technologies are used to fulfill the development. Model View Controller concept will be used for the execution of this project.
+    - We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Tomcat Server and its technologies are used to fulfill the development. Model View Controller concept will be used for the execution of this project.
     
 - 1.5 Constraints<br>
-Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
+- Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
 Also, being just students it would be impossible for us to fund the development of this web application by ourselves as we do not have the necessary budget.
 
 - 1.6 Project Stages <br>  
 Main Page (1 day) (Finished)
-Database (5 days) (Finished)
-Other functionalities (6 days) ->
+<br>Database (5 days) (Finished)
+<br>Other functionalities (6 days) ->
 
 - 1.7 Significance of The Project<br>
 <b>Patient</b>
