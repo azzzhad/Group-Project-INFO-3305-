@@ -73,7 +73,8 @@ AL - LATIF
     - 1.4.3 Specific Platform<br>
     	- We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the patient’s and hospital's data. Tomcat Server and its technologies are used to fulfill the development. Model View Controller concept will be used for the execution of this project.
     
-- 1.5 Constraints<br>
+- 1.5 Constraints
+<br>
 - Due to the quite short time period which we have, we might not be able to completely polish this system to be a fully completed system but instead we will try our very best to put in the required main features inside this application. 
 Also, being just students it would be impossible for us to fund the development of this web application by ourselves as we do not have the necessary budget.
 
