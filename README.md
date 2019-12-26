@@ -78,8 +78,8 @@ Main Page (1 day) (Finished)
 <br>Database (5 days) (Finished)
 <br>Other functionalities (6 days) ->
 
-- 1.7 Significance of The Project<br>
-<b>Patient</b>
+- 1.7 Significance of The Project
+<br><b>Patient</b>
 - Ease patients so that they do not have to blindly come and wait for their turn without knowing when they are exactly going to be called in by the doctor.
 
 <b>Doctor</b>
