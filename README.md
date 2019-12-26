@@ -90,7 +90,7 @@ Main Page (1 day) (Finished)
 <br>
 <b>Doctor</b>
 <br>
-- Reduce workload of having to stay inside their workplace for long hours.
+- Reduce workload of having to stay inside their workplace for long hours.<br>
 - Getting doctor's time more organized and suitable with the system because the system will also categorize the patients based on their workplace and field of medics.
 
 - 1.8 Summary<br>
